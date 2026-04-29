@@ -1,0 +1,17 @@
+# Ground truth — NEVER commit this to the public repo!
+data/ground_truth.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
